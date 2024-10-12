@@ -1,7 +1,5 @@
 package kb.baduwal.bindings;
 
-import lombok.Data;
-
 
 public class DashboardCard {
     private Long plansCnt;
